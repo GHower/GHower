@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 </p>
 
 <p align = "center">
-    <a href="https://github.com/Ghower/myblog">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangscaler&repo=myblog&theme=tokyonight" />
+    <a href="https://github.com/GHower/leetcodeLearn">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ghower&repo=leetcodeLearn&theme=tokyonight" />
     </a>
 </p>
 
