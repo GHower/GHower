@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align = "center">
     <img src = "https://github-readme-stats.vercel.app/api?username=Ghower&count_private=true&show_icons=true&theme=tokyonight&line_height=27"/>
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GHower&theme=tokyonight&hide=less,html,css,tsql，Dockerfile,scss,TSQL"/>
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GHower&theme=tokyonight&hide=less,html,css,tsql,Dockerfile,scss,TSQL"/>
 </p>
 
 <p align = "center">
