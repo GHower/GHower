@@ -31,8 +31,8 @@ Here are some ideas to get you started:
     <a href="https://github.com/GHower/leetcodeLearn">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ghower&repo=leetcodeLearn&theme=tokyonight" />
     </a>
-     <a href="https://github.com/GHower/howerHotel">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ghower&repo=howerHotel&theme=tokyonight" />
+     <a href="https://github.com/GHower/hower-hotel">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ghower&repo=hower-hotel&theme=tokyonight" />
     </a>
 </p>
 
