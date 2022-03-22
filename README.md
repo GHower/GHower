@@ -22,14 +22,17 @@ Here are some ideas to get you started:
 </p>
 
 <p align = "center">
-    <a href="https://github.com/GHower/leetcodeLearn">
+    <a href="https://github.com/GHower/ghSmall">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ghower&repo=ghSmall&theme=tokyonight" />
     </a>
-    <a href="https://github.com/GHower/leetcodeLearn">
+    <a href="https://github.com/GHower/CfNovel">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ghower&repo=CfNovel&theme=tokyonight" />
     </a>
     <a href="https://github.com/GHower/leetcodeLearn">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ghower&repo=leetcodeLearn&theme=tokyonight" />
+    </a>
+     <a href="https://github.com/GHower/howerHotel">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ghower&repo=howerHotel&theme=tokyonight" />
     </a>
 </p>
 
