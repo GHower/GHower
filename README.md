@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GHower&show_icons=true&theme=radical)
 -->
 
+> 学生服务器过期啦。以后白嫖github的，正在转移中...
+
 <p align = "center">
     <img src = "https://github-readme-stats.vercel.app/api?username=Ghower&count_private=true&show_icons=true&theme=tokyonight&line_height=27"/>
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GHower&theme=tokyonight&hide=less,html,css,tsql,Dockerfile,scss,TSQL"/>
@@ -57,18 +59,18 @@ Here are some ideas to get you started:
   <tbody>
     <tr valign="top">
       <td width="23%" align="center">
-       <a href="https://ghower.ltd">博客</a>
-       <br><br><br>
+       <a href="https://ghower.github.io">博客</a>
+       <br><br>
        记录知识
       </td>
       <td width="23%" align="center">
        <a href="https://blog.csdn.net/weixin_40877427?spm=1000.2115.3001.5343">CSDN</a>
-       <br><br><br>
+       <br><br>
        技术文章
      </td>
       <td width="23%" align="center">
        <a href="https://gitee.com/GHower">Gitee</a>
-       <br><br><br>
+       <br><br>
        小项目
      </td>
     </tr>
