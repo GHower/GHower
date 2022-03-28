@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GHower&show_icons=true&theme=radical)
 -->
 
-> 学生服务器过期啦。以后白嫖github的，正在转移中...
+> 学生服务器过期啦,续费好贵。。以后白嫖github的，文章及项目正在转移中...
 
 <p align = "center">
     <img src = "https://github-readme-stats.vercel.app/api?username=Ghower&count_private=true&show_icons=true&theme=tokyonight&line_height=27"/>
